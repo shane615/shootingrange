@@ -1,7 +1,7 @@
 Feel free to join our Discord so you don't miss out on any future releases! https://discord.gg/nxGvc7vkcN
 
 With basic ped reaction, everyone around the ammunation will be afraid since you're shooting so I added you a little script that will prevent from being attaked by random PNJ or hearing people screaming around.
-
+ 
 Installation :
 Download the Script from the GitHub
 Create a new folder for the resource in your server's files.
